@@ -1,5 +1,7 @@
 <?php 
-require('../mail/conexion.php');
+
+
+require("../admin/mail/conexion.php");
 ?>
 <!DOCTYPE html>
 <html lang="en-US">
@@ -18,6 +20,7 @@ require('../mail/conexion.php');
 	
 	<!-- Bootstrap Stylesheets -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
+	
 	<!-- Font Awesome Stylesheets -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<!-- Template Main Stylesheets -->
@@ -190,9 +193,9 @@ require('../mail/conexion.php');
 			
 		</div><!--End container -->
 	</div>
-	
+	<!--
 	<a href="../index.php" class="scrollup"><i class="fa fa-arrow-circle-up"></i></a>
-		
+			-->								
 	<!-- jQuery Library -->
 	<script src="js/jquery-3.2.1.min.js"></script>	
 	<!-- Popper js -->

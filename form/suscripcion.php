@@ -1,5 +1,5 @@
 <?php
-	require('../mail/conexion.php');
+	require('../admin/mail/conexion.php');
 
 	if (isset($_POST["nombreSus"])) {
 		

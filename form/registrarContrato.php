@@ -1,5 +1,6 @@
 <?php
-	require('../mail/conexion.php');
+	/*require('../mail/conexion.php');*/
+	require('../admin/mail/conexion.php');
 
 	if (isset($_POST["fname"])) {
 		$nombre = $_POST["fname"];
