@@ -63,17 +63,17 @@ $bloque1 = <<<EOF
 		
 		<tr>
 			
-			<td style="width:150px"><img src="images/logo-negro-bloque.png"></td>
+			<td style="width:130px"><img src="images/loglucy.png"></td>
 
 			<td style="background-color:white; width:140px">
 				
 				<div style="font-size:8.5px; text-align:right; line-height:15px;">
 					
 					<br>
-					NIT: 71.759.963-9
+					RUC: 102345651245
 
 					<br>
-					Dirección: Hidalgo 120, Delegación Santa Cruz Atzcapotzaltongo, 50290 Toluca de Lerdo, Méx
+					Dirección: AV. SAN MARTIN N540 -  SATIPO - JUNIN
 
 				</div>
 
@@ -84,10 +84,10 @@ $bloque1 = <<<EOF
 				<div style="font-size:8.5px; text-align:right; line-height:15px;">
 					
 					<br>
-					Teléfono: 722 272 7540
+					Teléfono: 956412305
 					
 					<br>
-					reservas@banquetesbolaños.com
+					eventos-lucy@gmail.com
 
 				</div>
 				

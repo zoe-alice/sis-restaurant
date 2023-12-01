@@ -54,7 +54,7 @@ $pdf = new TCPDF(PDF_PAGE_ORIENTATION, PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8',
 $pdf->setPrintHeader(false);
 $pdf->setPrintFooter(false);
 
-$pdf->AddPage('P', 'A7');
+$pdf->AddPage('P', 'A6');
 
 //---------------------------------------------------------
 
@@ -71,16 +71,16 @@ $bloque1 = <<<EOF
 				Fecha: $fecha
 
 				<br><br>
-				Banquetes Bolaños
+				<b>Restaurant&Eventos LUCY </b>
 				
 				<br>
-				NIT: 71.759.963-9
+				RUC: 10245128451
 
 				<br>
-				Dirección: Hidalgo 120, Delegación Santa Cruz Atzcapotzaltongo, 50290 Toluca de Lerdo, Méx
+				Direc.: Av. San Martin 540 - Satipo
 
 				<br>
-				Teléfono: 722 272 7540
+				Teléfono: 954 612 354
 
 				<br>
 				FACTURA N.$valorVenta

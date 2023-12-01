@@ -168,7 +168,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/intro-bg.jpg) center center no-repeat;
+	background: url(../img/bg-lucy.png) center center no-repeat;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -176,12 +176,12 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-o-background-size: cover;
 }
 .intro .overlay {
-	background: rgba(0,0,0,0.4);
+	background: rgba(82, 4, 78, 0.4);
 }
 .intro h1 {
 	font-family: 'Rochester', cursive;
 	color: #fff;
-	font-size: 10em;
+	font-size: 8em;
 	font-weight: 400;
 	margin-top: 0;
 }

@@ -9,7 +9,7 @@ require('./admin/mail/conexion.php');
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Banquete Bolaños</title>
+<title>Restaurant&Eventos Lucy</title>
 <meta name="description" content="">
 <meta name="author" content="">
 
@@ -50,9 +50,11 @@ require('./admin/mail/conexion.php');
     
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <a href="index.php"><img src="./admin/img/log4.png" alt="" style="height: 40px;"></a>
       <ul class="nav navbar-nav">
-        <li><a href="#features" class="page-scroll">Banquetes</a></li>        
-        <li><a href="#team" class="page-scroll">Chef</a></li>
+      <li><a href="#header" class="page-scroll">Inicio</a></li> 
+        <li><a href="#features" class="page-scroll">Menus</a></li>        
+        <li><a href="#team" class="page-scroll">Manager</a></li>
         <li><a href="#contact" class="page-scroll">Contacto</a></li>
         <li><a href="./form/contratos.php" class="page-scroll">Reservaciones</a></li>  
       </ul>
@@ -67,9 +69,9 @@ require('./admin/mail/conexion.php');
       <div class="container">
         <div class="row">
           <div class="intro-text">
-            <h1>Banquete</h1>
-            <h1>Bolaños</h1>
-            <p>Reservaciones: (722) 654-3210</p>
+            <h1>Restaurant & Eventos</h1>
+            <h1>Lucy Rosas</h1>
+            <p>Reservaciones: 956 125 326 / 945 612 458</p>
           </div>
         </div>
       </div>
@@ -212,14 +214,14 @@ require('./admin/mail/conexion.php');
       <div class="col-md-6">
         <div class="col-md-10 col-md-offset-1">
           <div class="section-title">
-            <h2>Conoce a nuestros Chef</h2>
+            <h2>Conoce a nuestro Planner Manager</h2>
           </div>
-          <p>David Millet comenzó su formación en el mundo gastronómico a los 15 años en las cocinas del Liceo Hotelero de Yzeure, Francia. Su trayectoria profesional le ha llevado a trabajar en algunos de los fogones más importantes de Francia: el Restaurante La Divellec, el Hotel Rosalp o el famoso restaurante de la Torre Eiffel, Jules Verne..</p>
-          <p>En Toluca el chef ha capitaneado las cocinas del Banquete Bolaños, en el que ha permanecido desde 2018 en el cual ha trasmitido sus conocimientos adquiridos desde su experiencia y carrera profesional.</p>
+          <p>Lucy Rosas comenzó su formación en el mundo gastronómico a los 15 años en las cocinas del Liceo Hotelero Ecuador. Su trayectoria profesional le ha llevado a trabajar en algunos de los fogones más importantes de Francia: el Restaurante La Divellec, el Hotel Rosalp o el famoso restaurante de  Jules Verne..</p>
+          <p>En Peru el chef ha capitaneado las cocinas, en ella que ha permanecido desde 2018 en el cual ha trasmitido sus conocimientos adquiridos desde su experiencia y carrera profesional.</p>
         </div>
       </div>
       <div class="col-md-6">
-        <div class="team-img"><img src="./admin/img/chef.jpg" alt="..."></div>
+        <div class="team-img"><img src="./admin/img/lucyr.png" alt="..."></div>
       </div>
     </div>
   </div>
@@ -231,14 +233,14 @@ require('./admin/mail/conexion.php');
       <h3>Reservaciones</h3>
       <div class="contact-item">
         <p>Por favor contactanos</p>
-        <p>(722) 654-3210</p>
+        <p>956 125 326 / 945 612 458</p>
       </div>
     </div>
     <div class="col-md-4">
       <h3>Nuestra dirección</h3>
       <div class="contact-item">
-        <p>4321 Ixtlahuaca,</p>
-        <p>Toluca, Estado de México 26485</p>
+        <p>Av. San Martin nº 520</p>
+        <p>Satipo - Junin</p>
       </div>
     </div>
     <div class="col-md-4">

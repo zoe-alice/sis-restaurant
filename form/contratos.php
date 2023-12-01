@@ -1,7 +1,5 @@
 <?php 
-
-
-require("../admin/mail/conexion.php");
+require('../admin/mail/conexion.php');
 ?>
 <!DOCTYPE html>
 <html lang="en-US">
@@ -20,7 +18,6 @@ require("../admin/mail/conexion.php");
 	
 	<!-- Bootstrap Stylesheets -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
-	
 	<!-- Font Awesome Stylesheets -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<!-- Template Main Stylesheets -->
@@ -187,15 +184,15 @@ require("../admin/mail/conexion.php");
 			
 			<div class="row">					
 				<div class="footer-top col-sm-12">
-					<p class="text-center copyright">&copy; 2021 Banquete Bolaños - Proyecto de IHM. Todos los derechos reservados.</p>
+					<p class="text-center copyright">&copy; 2023 Eventos Lucy - Proyecto de Luis Tapia Ig.. Todos los derechos reservados</p>
 				</div><!-- end col --> 
 			</div><!-- end row -->
 			
 		</div><!--End container -->
 	</div>
-	<!--
+	
 	<a href="../index.php" class="scrollup"><i class="fa fa-arrow-circle-up"></i></a>
-			-->								
+		
 	<!-- jQuery Library -->
 	<script src="js/jquery-3.2.1.min.js"></script>	
 	<!-- Popper js -->
